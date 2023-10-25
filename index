@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>Download My App</h1>
+  <a href="sophossetup.exe" download>Download Sophos</a>
+</body>
+</html>
