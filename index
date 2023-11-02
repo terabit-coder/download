@@ -3,5 +3,6 @@
 <body>
   <h1>Download My App</h1>
   <a href="sophossetup.exe" download>Download Sophos</a>
+<a href="Configuration.xml" download>Download Office Configuration</a>
 </body>
 </html>
