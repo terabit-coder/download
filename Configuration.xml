@@ -3,9 +3,6 @@
     <Product ID="O365ProPlusRetail">
       <Language ID="en-nz" />
     </Product>
-    <Product ID="VisioProRetail">
-      <Language ID="en-us" />
-    </Product>
   </Add>
   <Updates Enabled="TRUE" Channel="Current" /> 
   <Display Level="None" AcceptEULA="TRUE" />
