@@ -1,5 +1,5 @@
 <Configuration>
-    <Add SourcePath="C:\Path\To\OfficeFiles" OfficeClientEdition="64" Channel="Current">
+    <Add OfficeClientEdition="64" Channel="Current">
         <Product ID="O365ProPlusRetail">
             <Language ID="en-us" />
             <ExcludeApp ID="Groove" />
